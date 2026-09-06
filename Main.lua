@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://codeberg.org/mollerleon1711/OxideUiLibary/raw/branch/main/ScriptLoader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/xulfo/OxideUiLibary2/main/ScriptLoader.lua"))()
